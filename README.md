@@ -1,7 +1,9 @@
+```
+Name:Sivaram R
+Reg no:212222100050
+Date:30.04.2024
+```
 # EXPERIMEN 06 - SQUARE WAVE GENERATION AT THE OUTPUT PIN USING TIMER
-### Name:Sivaram R
-### Reg no:212222100050
-### Date:30.04.2023
 ### Aim:
 To generate a PWM wave at the timer pin output and  simuate it on  proteus using an virtual oscilloscope  
 
